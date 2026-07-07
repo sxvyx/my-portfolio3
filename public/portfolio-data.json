@@ -1,0 +1,159 @@
+{
+  "profile": {
+    "name": "Arjun Mehta",
+    "title": "SOC Analyst · Ethical Hacker · Security Engineer",
+    "summary": "Cybersecurity professional with 5+ years of experience in threat detection, incident response, and vulnerability management. Specialized in SIEM operations, penetration testing, and security architecture design.",
+    "email": "arjun.mehta@protonmail.com",
+    "phone": "+91 98765 43210",
+    "location": "Bengaluru, Karnataka"
+  },
+  "experience": [
+    {
+      "company": "CyberShield Inc.",
+      "role": "Senior SOC Analyst",
+      "duration": "2023 — Present",
+      "responsibilities": [
+        "Led Tier-2/3 incident response for multi-cloud enterprise environments.",
+        "Deployed SIEM correlation rules in Splunk, boosting detection coverage 60%.",
+        "Ran quarterly vulnerability assessments and penetration tests on 200+ endpoints.",
+        "Mentored junior analysts in threat hunting and EDR investigations.",
+        "Authored incident response playbooks for ransomware and APT scenarios."
+      ]
+    },
+    {
+      "company": "NetDefend Solutions",
+      "role": "SOC Analyst II",
+      "duration": "2021 — 2023",
+      "responsibilities": [
+        "Monitored 24/7 SIEM operations using QRadar and Elasticsearch.",
+        "Performed deep packet analysis with Wireshark for incident investigations.",
+        "Managed Nessus and OpenVAS scanning campaigns across hybrid infrastructure.",
+        "Built Python automation scripts to triage alerts and reduce false positives.",
+        "Collaborated with blue team during purple team exercises."
+      ]
+    },
+    {
+      "company": "SecureBase Consulting",
+      "role": "Junior Security Analyst",
+      "duration": "2019 — 2021",
+      "responsibilities": [
+        "Conducted Tier-1 alert triage and incident classification.",
+        "Performed Nmap scans and vulnerability assessments for clients.",
+        "Assisted with security awareness training and phishing simulations.",
+        "Documented security policies aligned with NIST CSF and ISO 27001."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Tech Cybersecurity",
+      "institution": "IIT Madras",
+      "year": "2019",
+      "highlights": [
+        "Network Defense",
+        "Cryptography",
+        "Threat Intelligence",
+        "Security Architecture"
+      ]
+    },
+    {
+      "degree": "B.Tech Computer Science",
+      "institution": "BITS Pilani",
+      "year": "2017",
+      "highlights": [
+        "OS Security",
+        "Data Structures",
+        "Computer Networks",
+        "Database Security"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Intrusion Detection System",
+      "description": "ML-based IDS trained on CIC-IDS2017 with high accuracy for DDoS, brute force, and port scan detection.",
+      "techStack": ["Python", "Scikit-learn", "Scapy", "Linux", "Docker"],
+      "icon": "🛡️"
+    },
+    {
+      "title": "Automated Vulnerability Scanner",
+      "description": "Authenticated scanning platform with CVE reporting and remediation workflows.",
+      "techStack": ["Python", "Nmap", "Nessus API", "ReportLab", "Bash"],
+      "icon": "🔍"
+    },
+    {
+      "title": "SIEM Dashboard — Threat Intel Feed",
+      "description": "Custom Splunk dashboard integrating threat intelligence feeds and real-time correlation rules.",
+      "techStack": ["Splunk", "MISP", "Python", "REST APIs", "Grafana"],
+      "icon": "📊"
+    },
+    {
+      "title": "Phishing Simulation Platform",
+      "description": "Internal phishing training system with campaign management, tracking, and reporting.",
+      "techStack": ["React", "Node.js", "MongoDB", "SendGrid", "Tailwind"],
+      "icon": "📧"
+    },
+    {
+      "title": "Network Traffic Analyzer",
+      "description": "Packet capture and protocol analysis tool for network security investigations.",
+      "techStack": ["Python", "Wireshark", "DPKT", "Matplotlib", "Flask"],
+      "icon": "🌐"
+    },
+    {
+      "title": "Endpoint Detection & Response Tool",
+      "description": "Lightweight Linux EDR agent monitoring process execution, file integrity, and suspicious network behavior.",
+      "techStack": ["Go", "Linux", "gRPC", "Elasticsearch", "Docker"],
+      "icon": "⚙️"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Security Tools",
+      "skills": ["Wireshark", "Nmap", "Metasploit", "Burp Suite", "Splunk", "Nessus", "Snort", "Ghidra"]
+    },
+    {
+      "name": "Programming",
+      "skills": ["Python", "Bash", "C", "JavaScript", "Go", "PowerShell"]
+    },
+    {
+      "name": "Systems",
+      "skills": ["Linux (Kali/Parrot)", "Windows Security", "Docker", "Kubernetes", "Active Directory"]
+    },
+    {
+      "name": "Networking",
+      "skills": ["TCP/IP", "Firewalls (Palo Alto, F5)", "VPNs", "DNS/DHCP", "BGP/OSPF", "802.1X/NAC"]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Ethical Hacker (CEH)",
+      "issuer": "EC-Council",
+      "date": "2024-05-01"
+    },
+    {
+      "name": "CompTIA Security+",
+      "issuer": "CompTIA",
+      "date": "2023-08-01"
+    },
+    {
+      "name": "GIAC Security Essentials (GSEC)",
+      "issuer": "GIAC",
+      "date": "2023-12-01"
+    },
+    {
+      "name": "Cisco Certified CyberOps Associate",
+      "issuer": "Cisco",
+      "date": "2022-11-01"
+    },
+    {
+      "name": "OSCP",
+      "issuer": "Offensive Security",
+      "date": "2024-02-01"
+    },
+    {
+      "name": "AWS Certified Security – Specialty",
+      "issuer": "AWS",
+      "date": "2024-03-01"
+    }
+  ]
+}
